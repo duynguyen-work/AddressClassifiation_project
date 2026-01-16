@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Phường 04,,Thành phốHồ Chi Minh",
+    "result": {
+        "district": "",
+        "ward": "4",
+        "province": "Hồ Chí Minh"
+    }
+  }
+]
