@@ -194,7 +194,7 @@ Ward      : Thuận Thành
 
 # 📚 References
 
-- Competition Specification: **Address Classification**. :contentReference[oaicite:4]{index=4}
+- Competition Specification: **Address Classification**
 - Vietnamese Administrative Division Database
 - Python Standard Library Documentation
 
